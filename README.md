@@ -1,3 +1,7 @@
+## El Capitan Note
+With the release of OS X 10.11 El Capitan, this app will no longer work due to SIP.
+
+
 DISCLAIMER:
 Editing anything under /System/ on your Mac is very dangerous, and strongly advised AGAINST. Anything in this directory is reserved for the OS and is subject to change at any time without notice.
 
